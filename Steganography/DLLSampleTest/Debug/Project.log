@@ -1,0 +1,11 @@
+﻿  Assembling main.asm...
+main.asm(40): warning A6004: procedure argument or local not referenced : imageSize
+main.asm(109): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(109): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(109): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library C:\Users\DINA\Desktop\Steganography\DLLSampleTest\Debug\Project.lib and object C:\Users\DINA\Desktop\Steganography\DLLSampleTest\Debug\Project.exp
+  Project.vcxproj -> C:\Users\DINA\Desktop\Steganography\DLLSampleTest\Debug\Project.dll
+  C:\Users\DINA\Desktop\Steganography\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied
+  C:\Users\DINA\Desktop\Steganography\DLLSampleTest\Debug\Project.dll
+  1 File(s) copied
